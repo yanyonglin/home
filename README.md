@@ -8,6 +8,8 @@
 ``` bash
 # install dependencies
 npm install
+失败试试
+npm install chromedriver --chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
 
 # serve with hot reload at localhost:8080
 npm run dev
